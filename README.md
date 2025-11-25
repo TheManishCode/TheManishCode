@@ -1,13 +1,13 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=650&lines=USER:+TheManishCode;STATUS:+Final+Year+CS+Undergrad;FOCUS:+AI-ML+%26+Security;ESTABLISHING+UPLINK..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=650&lines=Name:+Manish+P;USER:+TheManishCode;STATUS:+Final+Year+CS+Undergrad;FOCUS:+AI-ML+%26+Security;ESTABLISHING+UPLINK..." alt="Typing SVG" />
   </a>
 
   <p>
     <img width="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
     &nbsp;
-    <strong> Building Scalable Apps | Exploring Cybersecurity | Crafting Digital Experiences </strong>
+    <strong> Building Scalable Apps | Exploring Cybersecurity | Crafting Digital Experiences </strong>+
   </p>
 </div>
 
