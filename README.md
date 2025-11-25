@@ -62,7 +62,7 @@
 
 <h3 align="center">>_ CONTRIBUTION_LOG</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheManishCode/TheManishCode/output/dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/TheManishCode/TheManishCode/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
 <br/>
