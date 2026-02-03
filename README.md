@@ -36,7 +36,7 @@
       <div align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheManishCode&theme=github_dark" alt="Stats" />
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheManishCode&theme=react&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+        <img src="https://streak-stats.demolab.com/?user=TheManishCode&theme=react&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
         <br/>
       </div>
     </td>
